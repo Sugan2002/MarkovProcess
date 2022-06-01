@@ -27,8 +27,8 @@ Assumptions for Markov Chain :
 
 ```python
 # Developed by
-# Register Number: 212220230019
-# Name: Gowri M
+# Register Number: 212220230049
+# Name: P.SUGANYA
 
 import numpy as np
 P0=[0.3,0.2,0.5]
@@ -40,6 +40,34 @@ for i in range(1,n+1):
     print(P0)
 ```
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 # Output : 
 
